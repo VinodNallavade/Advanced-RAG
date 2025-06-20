@@ -1,0 +1,11 @@
+azure-identity
+langchain-openai
+langchain-core
+langchain-community
+
+
+dotenv
+bs4
+
+
+faiss-cpu
